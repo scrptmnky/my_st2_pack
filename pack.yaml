@@ -2,7 +2,7 @@
 ref: my_st2_pack
 name: "My StackStorm Pack"
 description: Our collection of rules, sensors, workflows, and actions.
-version: 0.0.1
+version: 0.0.2
 author: Todd
 email: noeltod@gmail.com
 dependencies:
