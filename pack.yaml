@@ -1,0 +1,8 @@
+---
+ref: my_st2_pack
+name: "My StackStorm Pack"
+description: Our collection of rules, sensors, workflows, and actions.
+version: 0.0.1
+author: Todd
+dependencies:
+  - https://github.com/StackStorm-Exchange/stackstorm-git.git
